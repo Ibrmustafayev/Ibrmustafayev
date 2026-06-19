@@ -27,17 +27,11 @@ A movie discovery web app — set filters like genre, year range, language, and 
 ### 🔐 [Password Suite](https://github.com/Ibrmustafayev/Python-Projects/tree/main/PasswordApp)
 A neon-themed desktop password utility built with Python and Tkinter. Combines three tools in one cyberpunk-styled GUI: a personal-data-based password generator, a random password generator, and a real-time password strength analyzer with entropy calculation and crack time estimation.
 
-### 📚 [Study Session Tracker](https://github.com/Ibrmustafayev/Python-Projects/tree/main/Study_Session_Tracker)
-A command-line study session tracker built with OOP. Logs sessions by subject, shows stats and an overall summary, and fetches motivational quotes from the ZenQuotes API.
-
 ### 🌤️ [Weather CLI](https://github.com/Ibrmustafayev/Python-Projects/tree/main/Weather_Project)
 A command-line weather app that fetches real-time temperature, wind speed, and weather conditions for any city. Uses the free Open-Meteo API — no API key required.
 
 ### 📝 [To-Do List Manager](https://github.com/Ibrmustafayev/Python-Projects/tree/main/ToDoList)
 A command-line task manager that lets you add, view, edit, complete, and delete tasks. Data is stored persistently in a JSON file and colored terminal output via `colorama` makes the interface easy to read.
-
-### 📖 [Library Manager](https://github.com/Ibrmustafayev/C_beginner/blob/main/Library.c)
-A console-based library system written in C. Add books, search by title, sort by rating or year, and find the top-rated book.
 
 ### 🏦 [Basic Bank System](https://github.com/Ibrmustafayev/C_beginner/blob/main/BasicBankSystem.c)
 A console-based bank account system in C. Create an account, deposit and withdraw funds, and view full transaction history with dates.
