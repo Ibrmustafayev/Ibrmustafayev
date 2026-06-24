@@ -36,7 +36,7 @@ A command-line task manager that lets you add, view, edit, complete, and delete 
 ### 🏦 [MiniShell Task Manager v1.0](https://github.com/Ibrmustafayev/C_beginner/blob/main/MiniShell_TM)
 MiniShell Task Manager is a terminal program that lets you manage tasks through typed shell-like commands..
 
-### 🔗 [Linked List Series](https://github.com/Ibrmustafayev/C_beginner/Linked List) 
+### 🔗 [Linked List Series](https://github.com/Ibrmustafayev/C_beginner/LinkedList) 
 Three progressive C programs exploring self-referencing structs — a basic linked list, full CRUD operations, and a linked-list-based stack & queue.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
