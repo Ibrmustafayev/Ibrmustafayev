@@ -33,10 +33,10 @@ A command-line weather app that fetches real-time temperature, wind speed, and w
 ### 📝 [To-Do List Manager](https://github.com/Ibrmustafayev/Python-Projects/tree/main/ToDoList)
 A command-line task manager that lets you add, view, edit, complete, and delete tasks. Data is stored persistently in a JSON file and colored terminal output via `colorama` makes the interface easy to read.
 
-### 🏦 [Basic Bank System](https://github.com/Ibrmustafayev/C_beginner/blob/main/BasicBankSystem.c)
+### 🏦 [Basic Bank System](https://github.com/Ibrmustafayev/C_beginner/blob/main/BasicBankSystem)
 A console-based bank account system in C. Create an account, deposit and withdraw funds, and view full transaction history with dates.
 
-### 🔗 [Linked List Series](https://github.com/Ibrmustafayev/C_beginner) 
+### 🔗 [Linked List Series](https://github.com/Ibrmustafayev/C_beginner/Linked List) 
 Three progressive C programs exploring self-referencing structs — a basic linked list, full CRUD operations, and a linked-list-based stack & queue.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
