@@ -33,10 +33,10 @@ A command-line weather app that fetches real-time temperature, wind speed, and w
 ### 📝 [To-Do List Manager](https://github.com/Ibrmustafayev/Python-Projects/tree/main/ToDoList)
 A command-line task manager that lets you add, view, edit, complete, and delete tasks. Data is stored persistently in a JSON file and colored terminal output via `colorama` makes the interface easy to read.
 
-### 🏦 [MiniShell Task Manager v1.0](https://github.com/Ibrmustafayev/C_beginner/blob/main/MiniShell_TM)
+### 🏦 [MiniShell Task Manager v1.0](https://github.com/Ibrmustafayev/C/tree/main/MiniShell%20TM)
 MiniShell Task Manager is a terminal program that lets you manage tasks through typed shell-like commands..
 
-### 🔗 [Linked List Series](https://github.com/Ibrmustafayev/C_beginner/LinkedList) 
+### 🔗 [Linked List Series](https://github.com/Ibrmustafayev/C/tree/main/Linked%20List))
 Three progressive C programs exploring self-referencing structs — a basic linked list, full CRUD operations, and a linked-list-based stack & queue.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
