@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Ibrahim+Mustafayev!;Cyber+Security+Student+at+BHOS;Python+%26+C+Programmer)](https://git.io/typing-svg)
 
 🛡️ Studying Information Security at [Baku Higher Oil School](https://bhos.edu.az/en), Azerbaijan </br>
-🐍 Building projects in Python & C, exploring cybersecurity fundamentals along the way
+🐍 Building projects in Python, C & C++, exploring cybersecurity fundamentals along the way
 
 </div>
 
