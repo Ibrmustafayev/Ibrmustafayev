@@ -51,4 +51,5 @@ MiniShell Task Manager is a terminal program that lets you manage tasks through 
 ### 🔗 [Linked List Series](https://github.com/Ibrmustafayev/C/tree/main/Linked%20List)
 Three progressive C programs exploring self-referencing structs — a basic linked list, full CRUD operations, and a linked-list-based stack & queue.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## </> Most Used Languages
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
